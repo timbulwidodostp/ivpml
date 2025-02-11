@@ -1,6 +1,8 @@
 # ivpml
 Estimate instrumental variable probit model by maximum likelihood Use ivpml (Rchoice) With (In) R Software
 
+https://www.youtube.com/watch?v=qsFosOG_sLY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
